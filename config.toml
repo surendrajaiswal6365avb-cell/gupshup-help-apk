@@ -1,7 +1,2 @@
-mainURL = "https://world-war-3ad50.web.app"
-appName = "GupShup Help"
-packageName = "com.gupshup.help"
-cameraEnabled = true
-microphoneEnabled = true
-showToolbar = false
-showUrlBar = false
+url = "file:///android_asset/offline.html"
+offline_file = "offline.html"
