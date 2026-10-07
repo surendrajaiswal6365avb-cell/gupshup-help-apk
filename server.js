@@ -1,1 +1,0 @@
-<body style="background:#0a0a0a;color:#d4b86a;display:flex;align-items:center;justify-content:center;height:100vh;text-align:center;font-family:sans-serif"><div><h2>GupShup Help</h2><p style="color:#888">Internet Off Hai - Data ON Karo</p></div></body>
