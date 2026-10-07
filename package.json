@@ -1,14 +1,7 @@
-{
-  "name": "world-war-online-server",
-  "version": "1.0.0",
-  "description": "WORLD WAR Online Multiplayer Game Server",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "socket.io": "^4.8.1"
-  }
-}
+mainURL = "https://world-war-3ad50.web.app"
+appName = "GupShup Help"
+packageName = "com.gupshup.help"
+cameraEnabled = true
+microphoneEnabled = true
+showToolbar = false
+showUrlBar = false
